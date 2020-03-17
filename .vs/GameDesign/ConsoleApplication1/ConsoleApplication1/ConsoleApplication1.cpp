@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 
-	int test = 13 * 13 - 100;
+	int test = 13 * 13 - 100 -0;
 	int test2 = 68;
 	if (test == 69) {
 		cout << "69 Nice" << endl;
